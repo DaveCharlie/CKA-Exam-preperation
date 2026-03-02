@@ -14,6 +14,7 @@ data:
       }
     }
 kind: ConfigMap
+immutable: true
 metadata:
   annotations:
     kubectl.kubernetes.io/last-applied-configuration: |
